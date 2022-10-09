@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Client Platform and Design systems on Android at [Nextdoor](https://nextdoor.com/)
+🔭 I’m currently working on the App Platform team on Android at [Zillow](https://www.zillow.com/)
 
 😄 Pronouns: he/him
 
