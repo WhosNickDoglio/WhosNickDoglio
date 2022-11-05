@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on the App Platform team on Android at [Zillow](https://www.zillow.com/)
-
 😄 Pronouns: he/him
+
+I am a Software Engineer based in NY currently working on the Mobile Application Platform team at [Zillow](https://www.zillow.com/) (Previously at [Nextdoor](https://nextdoor.com/), [Vimeo](https://vimeo.com/) and [Verizon Wireless](https://www.verizon.com/)).  As an engineer I'm passionate about building tooling to maximize develoepr productivity, dependency injection and design systems.
 
 
 <!--
